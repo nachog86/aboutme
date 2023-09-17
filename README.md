@@ -1,4 +1,4 @@
- <div align="center">¡Hola! Soy Ignacio Gomez, de ahora en mas  Nacho 😂, un Project Manager de corazón con las habilidades técnicas de un Full Stack Developer.</div>  
+# <div align="center">¡Hola! Soy Ignacio Gomez, de ahora en mas  Nacho 😂, un Project Manager de corazón con las habilidades técnicas de un Full Stack Developer.</div>  
   
 
 - 🚀 ¿Qué ofrezco?
